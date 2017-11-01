@@ -1,2 +1,1 @@
-# imageexample
-image example
+run `pip install requirements.txt`
